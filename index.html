@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <div class="music-player">
+        <h2>Playlist</h2>
+        <p class="subtitle">Songs that remind me of you</p>
+        
+        <div class="carousel">
+            <div class="album-cover">
+                <img id="albumImage" src="cover1.jpg" alt="Album Cover">
+            </div>
+        </div>
+
+        <div class="track-info">
+            <h3 id="trackTitle">About You</h3>
+            <p id="trackArtist">The 1975</p>
+        </div>
+
+        <audio id="audioPlayer" src="song1.mp3"></audio>
+
+        <div class="controls">
+            <button id="prevBtn">⏮</button>
+            <button id="playPauseBtn">▶</button>
+            <button id="nextBtn">⏭</button>
+        </div>
+
+        <input type="range" id="seekBar" value="0">
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
