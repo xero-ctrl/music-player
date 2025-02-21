@@ -29,31 +29,31 @@ const tracks = [
         title: "Come and Get Your Love", 
         artist: "Redbone", 
         src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740143628/Come_and_Get_Your_Love_oxhqai.mp3", 
-        cover: "cagyl.jpg" 
+        cover: "iyok.jpg" 
     },
     { 
         title: "Untouchable", 
         artist: "Taylor Swift", 
         src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740143552/Taylor_Swift_-_Untouchable_Taylor_s_Version_Lyric_Video_ku5dkr.mp3", 
-        cover: "cover3.jpg" 
+        cover: "27a6c71ebd4732c24aa94de61f024c5c.jpg" 
     },
     {
        title: 'Jump Then Fall',
        artist: "Taylor Swift",
        src:"https://res.cloudinary.com/dcgehi8wi/video/upload/v1740119099/Taylor_Swift_-_Jump_Then_Fall_Taylor_s_Version_Lyric_Video_n5vdzp.mp3",
-       cover: ""
+       cover: "606230e40d99538a48988e726e2938ba.jpg"
     },
     {
        title: "LOVE LOOKS PRETTY ON YOU",
        artist: "Nessa Barrett",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180094/LOVE_LOOKS_PRETTY_ON_YOU_lpvadk.mp3",
-       cover: ""
+       cover: "763686f6e0f6072ac77563b1e4a503aa (1).jpg"
     },
     {
        title: "Nothin' On You",
        artist: "B.o.B ft. Bruno Mars",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180088/SpotifyMate.com_-_Nothin__on_You__feat._Bruno_Mars__-_B.o.B_jnop07.mp3",
-       cover: ""
+       cover: "b908d595d0518d952939fc02dd7ec28a.jpg"
     },
     {
        title: "my strange addiction",
@@ -101,7 +101,7 @@ const tracks = [
        title: "I Love You, I'm Sorry",
        artist: "Gracie Abrams",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180065/Gracie_Abrams_-_I_Love_You_I_m_Sorry_Official_Lyric_Video_tydnlu.mp3",
-       cover: ""
+       cover: "ilyis.jpg"
     },
     {
        title: "Guilty As Sin",
