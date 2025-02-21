@@ -59,13 +59,13 @@ const tracks = [
        title: "my strange addiction",
        artist: "Billie Eilish",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180085/SpotifyMate.com_-_my_strange_addiction_-_Billie_Eilish_apucwc.mp3",
-       cover: ""
+       cover: "bd644a801a796ada7f5559dbc7418b68.jpg"
     },
     {
        title: "santa doesn't know you like i do,
        artist: "Sabrina Carpenter",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180085/SpotifyMate.com_-_santa_doesn_t_know_you_like_i_do_-_Sabrina_Carpenter_tw1n0t.mp",
-       cover: ""
+       cover: "ac30f699162746e139e01bd44c5d4040.jpg"
     },
     {
        title: "Feels Like",
@@ -77,7 +77,7 @@ const tracks = [
        title: "Dive",
        artist: "Ed Sheeran",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180073/Dive_whiekn.mp3",
-       cover: ""
+       cover: "eca80ce920ace9ce947c76da2a19f355.jpg"
     },
     {
        title: "All Of The Stars",
