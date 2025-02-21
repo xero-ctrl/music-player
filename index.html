@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Music Player</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="chatgpt.css">
 </head>
 <body>
 
-    <div class="music-player">
+    <audio id="audioPlayer"></audio>
+   <div class="music-player">
         <h2>Playlist</h2>
         <p class="subtitle">Songs that remind me of you</p>
         
@@ -17,25 +18,32 @@
                 <img id="albumImage" src="cover1.jpg" alt="Album Cover">
             </div>
         </div>
-
         <div class="track-info">
-            <h3 id="trackTitle">About You</h3>
-            <p id="trackArtist">The 1975</p>
+            <h3 id="trackTitle">No.1 Party Anthem</h3>
+            <p id="trackArtist">Arctic Monkeys</p>
         </div>
-
-        <audio id="audioPlayer" src="song1.mp3"></audio>
-
-        <div class="controls">
-            <button id="prevBtn">⏮</button>
-            <button id="playPauseBtn">▶</button>
-            <button id="nextBtn">⏭</button>
+   
+    <!-- Progress Bar -->
+    <div class="progress-container">
+        <span id="currentTime" class="time">0:00</span>
+        <div id="progressBar">
+            <div id="progressIndicator"></div>
         </div>
-
-        <input type="range" id="seekBar" value="0">
-
+        <span id="totalTime" class="time">0:00</span>
     </div>
 
-    <script src="script.js"></script>
+    <!-- Music Controls -->
+    <div class="controls">
+        <button id="shuffleBtn">&#x2928;</button>
+        <button id="prevBtn">⏮</button>
+        <button id="playPauseBtn">▶</button>
+        <button id="nextBtn">⏭</button>
+        <button id="repeatBtn">&#x27F2;</button>
+    </div>
+   
+    <!-- Favorite Button -->
+    <button id="favoriteBtn">♡</button>
 
+    <script src="chatgpt.js"></script>
 </body>
 </html>
