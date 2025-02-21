@@ -71,7 +71,7 @@ const tracks = [
        title: "Feels Like",
        artist: "Gracie Abrams",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180083/SpotifyMate.com_-_Feels_Like_-_Gracie_Abrams_pi8rzb.mp3",
-       cover: ""
+       cover: "bc9226e19fffff948d816456bd91de07.jpg"
     },
     {
        title: "Dive",
@@ -95,7 +95,7 @@ const tracks = [
        title: "So High School",
        artist: "Taylor Swift",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180066/So_High_School_gwcrha.mp3",
-       cover: ""
+       cover: "5f2363e2ba725164641c759bfc13b98d.jpg"
     },
     {
        title: "I Love You, I'm Sorry",
@@ -107,7 +107,7 @@ const tracks = [
        title: "Guilty As Sin",
        artist: "Taylor Swift",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180063/Guilty_as_Sin__wcnq5y.mp3",
-       cover: ""
+       cover: "4a9f9efc1bfea8af1af02c0ef32d2024.jpg"
     },
     {
        title: "",
