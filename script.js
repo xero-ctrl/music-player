@@ -22,20 +22,26 @@ const tracks = [
     { 
         title: "No.1 Party Anthem", 
         artist: "Arctic Monkeys", 
-        src: "No. 1 Party Anthem.mp3", 
+        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740143655/No._1_Party_Anthem_lfaf0r.mp3", 
         cover: "no1.jpg" // Add album cover here
     },
     { 
         title: "Come and Get Your Love", 
         artist: "Redbone", 
-        src: "come and get your love.mp3", 
+        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740143628/Come_and_Get_Your_Love_oxhqai.mp3", 
         cover: "cagyl.jpg" 
     },
     { 
-        title: "Song 3", 
-        artist: "Artist 3", 
-        src: "song3.mp3", 
+        title: "Untouchable", 
+        artist: "Taylor Swift", 
+        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740143552/Taylor_Swift_-_Untouchable_Taylor_s_Version_Lyric_Video_ku5dkr.mp3", 
         cover: "cover3.jpg" 
+    },
+    {
+       title: 'Jump Then Fall',
+       artist: "Taylor Swift",
+       src:"https://res.cloudinary.com/dcgehi8wi/video/upload/v1740119099/Taylor_Swift_-_Jump_Then_Fall_Taylor_s_Version_Lyric_Video_n5vdzp.mp3",
+       cover: ""
     }
 ];
 
