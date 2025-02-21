@@ -42,7 +42,85 @@ const tracks = [
        artist: "Taylor Swift",
        src:"https://res.cloudinary.com/dcgehi8wi/video/upload/v1740119099/Taylor_Swift_-_Jump_Then_Fall_Taylor_s_Version_Lyric_Video_n5vdzp.mp3",
        cover: ""
-    }
+    },
+    {
+       title: "LOVE LOOKS PRETTY ON YOU",
+       artist: "Nessa Barrett",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180094/LOVE_LOOKS_PRETTY_ON_YOU_lpvadk.mp3",
+       cover: ""
+    },
+    {
+       title: "Nothin' On You",
+       artist: "B.o.B ft. Bruno Mars",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180088/SpotifyMate.com_-_Nothin__on_You__feat._Bruno_Mars__-_B.o.B_jnop07.mp3",
+       cover: ""
+    },
+    {
+       title: "my strange addiction",
+       artist: "Billie Eilish",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180085/SpotifyMate.com_-_my_strange_addiction_-_Billie_Eilish_apucwc.mp3",
+       cover: ""
+    },
+    {
+       title: "santa doesn't know you like i do,
+       artist: "Sabrina Carpenter",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180085/SpotifyMate.com_-_santa_doesn_t_know_you_like_i_do_-_Sabrina_Carpenter_tw1n0t.mp",
+       cover: ""
+    },
+    {
+       title: "Feels Like",
+       artist: "Gracie Abrams",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180083/SpotifyMate.com_-_Feels_Like_-_Gracie_Abrams_pi8rzb.mp3",
+       cover: ""
+    },
+    {
+       title: "Dive",
+       artist: "Ed Sheeran",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180073/Dive_whiekn.mp3",
+       cover: ""
+    },
+    {
+       title: "All Of The Stars",
+       artist: "Ed Sheeran",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180072/All_of_the_Stars_updxxe.mp3",
+       cover: ""
+    },
+    {
+       title: "You And Me",
+       artist: "Lifehouse",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180067/You_And_Me_rhpjav.mp3",
+       cover: ""
+    },
+    {
+       title: "So High School",
+       artist: "Taylor Swift",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180066/So_High_School_gwcrha.mp3",
+       cover: ""
+    },
+    {
+       title: "I Love You, I'm Sorry",
+       artist: "Gracie Abrams",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180065/Gracie_Abrams_-_I_Love_You_I_m_Sorry_Official_Lyric_Video_tydnlu.mp3",
+       cover: ""
+    },
+    {
+       title: "Guilty As Sin",
+       artist: "Taylor Swift",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180063/Guilty_as_Sin__wcnq5y.mp3",
+       cover: ""
+    },
+    {
+       title: "",
+       artist: "",
+       src: "",
+       cover: ""
+    },
+    {
+       title: "",
+       artist: "",
+       src: "",
+       cover: ""
+    },
 ];
 
 function loadTrack(index) {
