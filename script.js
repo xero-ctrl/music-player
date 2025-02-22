@@ -110,15 +110,15 @@ const tracks = [
        cover: "4a9f9efc1bfea8af1af02c0ef32d2024.jpg"
     },
     {
-       title: "",
-       artist: "",
-       src: "",
+       title: "Lego House",
+       artist: "Ed Sheeran",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740182315/Lego_House_mjh9qh.mp3",
        cover: ""
     },
     {
-       title: "",
-       artist: "",
-       src: "",
+       title: "Two Is Better Than One",
+       artist: "Boys Like Girls",
+       src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740182312/Two_Is_Better_Than_One_zr0wg0.mp3",
        cover: ""
     },
 ];
