@@ -120,7 +120,7 @@ const tracks = [
        artist: "Boys Like Girls",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740182312/Two_Is_Better_Than_One_zr0wg0.mp3",
        cover: "1f8e7bfebfa38a12feb7f820a03731c2.jpg"
-    },
+    }
 ];
 
 function loadTrack(index) {
