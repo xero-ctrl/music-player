@@ -83,13 +83,13 @@ const tracks = [
        title: "All Of The Stars",
        artist: "Ed Sheeran",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180072/All_of_the_Stars_updxxe.mp3",
-       cover: ""
+       cover: "3ecf1a7805e67b1928378fcd32fdc078.jpg"
     },
     {
        title: "You And Me",
        artist: "Lifehouse",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740180067/You_And_Me_rhpjav.mp3",
-       cover: ""
+       cover: "c15ace75f8616873a1ea3d13935ccd65.jpg"
     },
     {
        title: "So High School",
