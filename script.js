@@ -113,13 +113,13 @@ const tracks = [
        title: "Lego House",
        artist: "Ed Sheeran",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740182315/Lego_House_mjh9qh.mp3",
-       cover: ""
+       cover: "267c92b055e2a9e9d25aba878df20dbb.jpg"
     },
     {
        title: "Two Is Better Than One",
        artist: "Boys Like Girls",
        src: "https://res.cloudinary.com/dcgehi8wi/video/upload/v1740182312/Two_Is_Better_Than_One_zr0wg0.mp3",
-       cover: ""
+       cover: "1f8e7bfebfa38a12feb7f820a03731c2.jpg"
     },
 ];
 
